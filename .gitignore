@@ -3,3 +3,8 @@ __pycache__/
 *.py[cod]
 *.npz
 .env
+results/
+*.h5ad
+*.vcc
+inspect_data.py
+K1000练习_亲手重建稀疏迁移基线.md
